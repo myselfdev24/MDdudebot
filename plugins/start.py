@@ -18,10 +18,10 @@ async def start(bot, message):
              [[
                InlineKeyboardButton("♦️ Help", callback_data = "help")
              ],[
-               InlineKeyboardButton('📢 Update Channel', url='https://t.me/GreyMatter_Bots'),
-               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/GreyMatters_Bots_Discussion')
+               InlineKeyboardButton('📢 Update Channel', url='https://t.me/MoviesDude_linkZz'),
+               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/+XAU5GLkYsKliNWI1')
              ],[
-                InlineKeyboardButton('📃 Source code', url='https://github.com/Greymattersbot/md-renamebot')
+                InlineKeyboardButton('📃 Source code', url='https://github.com')
              ]]
    ))
                             
@@ -99,7 +99,7 @@ async def cb_handler(client: Client , query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup(
             [[
-              InlineKeyboardButton('📃 Source code', url='https://github.com/Greymattersbot/md-renamebot')
+              InlineKeyboardButton('📃 Source code', url='https://github.com')
             ],[
               InlineKeyboardButton('Back', callback_data = "help"),
             ]]
