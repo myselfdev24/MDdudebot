@@ -59,9 +59,9 @@ broadcast - To broadcast messages to users
 
 # SUPPORT
 
-- [UPDATE CHANNEL](https://t.me/GreyMatter_Bots)
-- [SUPPORT GROUP](https://t.me/GreyMatters_Bots_Discussion)
+- [UPDATE CHANNEL](https://t.me/MD_Bots)
+- [SUPPORT GROUP](https://t.me/MD_Support_group)
 
 # Credits
 - [Mdbotz](https://github.com/Mdbotz)
-- [GreyMatter's](https://github.com/Greymattersbot) for adding Koyeb Support. 
+- [MDBots](https://github.com) for adding Koyeb Support. 
