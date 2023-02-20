@@ -18,8 +18,8 @@ async def start(bot, message):
              [[
                InlineKeyboardButton("♦️ Help", callback_data = "help")
              ],[
-               InlineKeyboardButton('📢 Update Channel', url='https://t.me/MoviesDude_linkZz'),
-               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/+XAU5GLkYsKliNWI1')
+               InlineKeyboardButton('📢 Update Channel', url='https://t.me/MD_Bots'),
+               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/MD_Support_Group')
              ],[
                 InlineKeyboardButton('📃 Source code', url='https://github.com')
              ]]
