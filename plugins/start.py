@@ -65,10 +65,10 @@ async def cb_handler(client: Client , query: CallbackQuery):
              [[
                InlineKeyboardButton("♦️ Help", callback_data = "help")
              ],[
-               InlineKeyboardButton('📢 Update Channel', url='https://t.me/GreyMatter_Bots'),
-               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/GreyMatters_Bots_Discussion')
+               InlineKeyboardButton('📢 Update Channel', url='https://t.me/MD_Bots'),
+               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/MD_Support_group')
              ],[
-                InlineKeyboardButton('📃 Source code', url='https://github.com/Greymattersbot/md-renamebot')
+                InlineKeyboardButton('📃 Source code', url='https://github.com')
              ]]
         ))
         
