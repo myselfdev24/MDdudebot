@@ -5,7 +5,7 @@ from pyrogram.errors import UserNotParticipant
  
 async def is_subscribed(_, bot, message: Message):
     channel = Config.AUTH_CHANNEL
-    if no channel:
+    if not channel:
        return False
     try:
        user = await bot.get_chat_member(int(channel), message.from_user.id)
