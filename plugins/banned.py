@@ -11,7 +11,7 @@ async def force_sub(bot, message):
        invite_link = await bot.create_chat_invite_link(int(AUTH_CHANNEL))
     except ChatAdminRequired:
        bot.log.exception("Make sure Bot is admin in Forcesub channel")
-       Config.AUTH_CHANNEL = "" 
+       Config.AUTH_CHANNEL =
        return
     button = [[
        InlineKeyboardButton(
