@@ -43,7 +43,7 @@ class Translation(object):
 ╔════❰ RENAME BOT ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [{}](https://t.me/{})
-║┣⪼👦Deployer : [MoviesDude Bots](https://t.me/MoviesDude_LinkZz)
+║┣⪼👦Deployer : [MD Bots](https://t.me/MD_Bots)
 ║┣⪼📡ʜᴏsᴛᴇᴅ ᴏɴ : Koyeb
 ║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ3
 ║┣⪼📚ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ ᴀsʏɴᴄɪᴏ {} 
