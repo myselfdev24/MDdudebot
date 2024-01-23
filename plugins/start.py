@@ -18,10 +18,10 @@ async def start(bot, message):
              [[
                InlineKeyboardButton("♦️ Help", callback_data = "help")
              ],[
-               InlineKeyboardButton('📢 Update Channel', url='https://t.me/MD_Bots'),
-               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/MD_Support_Group')
+               InlineKeyboardButton('📢 Update Channel', url='https://t.me/Dudecine'),
+               InlineKeyboardButton('🎞 Movie Channel', url='https://t.me/Team_MDL')
              ],[
-                InlineKeyboardButton('📃 Source code', url='https://github.com')
+                InlineKeyboardButton('📱 Youtube Channel', url='https://youtube.com/@Dudecine')
              ]]
    ))
                             
@@ -65,10 +65,10 @@ async def cb_handler(client: Client , query: CallbackQuery):
              [[
                InlineKeyboardButton("♦️ Help", callback_data = "help")
              ],[
-               InlineKeyboardButton('📢 Update Channel', url='https://t.me/MD_Bots'),
-               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/MD_Support_group')
+               InlineKeyboardButton('📢 Update Channel', url='https://t.me/Dudecine'),
+               InlineKeyboardButton('🎞 Movie Channel', url='https://t.me/Team_MDL')
              ],[
-                InlineKeyboardButton('📃 Source code', url='https://github.com')
+                InlineKeyboardButton('📱 Youtube Channel', url='https://youtube.com/@Dudecine')
              ]]
         ))
         
@@ -99,7 +99,7 @@ async def cb_handler(client: Client , query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup(
             [[
-              InlineKeyboardButton('📃 Source code', url='https://github.com')
+              InlineKeyboardButton('📃 Youtube Channel', url='https://youtube.com/@DudeCine')
             ],[
               InlineKeyboardButton('Back', callback_data = "help"),
             ]]
