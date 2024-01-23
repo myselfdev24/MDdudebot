@@ -43,7 +43,7 @@ class Translation(object):
 ╔════❰ RENAME BOT ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [{}](https://t.me/{})
-║┣⪼👦Deployer : [MD Bots](https://t.me/MD_Bots)
+║┣⪼👦Deployer : [Team_MDL](https://t.me/Team_MDL)
 ║┣⪼📡ʜᴏsᴛᴇᴅ ᴏɴ : Koyeb
 ║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ3
 ║┣⪼📚ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ ᴀsʏɴᴄɪᴏ {} 
@@ -72,7 +72,7 @@ you can add custom thumbnail simply by sending a photo to me
     BANNED_TXT = "<b>Sorry dude, You would be banned from using me</b>"
     DOWNLOAD_START_TXT = "<b>Downloading To My server !!</b>"
     UPLOAD_START_TXT = "<b>Uploading into telegram</b>"
-    UPLOAD_SUCCESS_TXT = "<b>Thank you for Using Me ❤️</b>"
+    UPLOAD_SUCCESS_TXT = "<b>Join Here ❤️: @Team_MDL\n\nYoutube Channel 📱: https://youtube.com/@DudeCine</b>"
     NEW_CUSTOM_THUMB_TXT = "✔️ Thumbnail Successfully Added"
     REMOVE_CUSTOM_THUMB_TXT = "🗑️ Thumbnail Successfully Removed"
     DOWNLOAD_SUCCESS_TXT = "<b>Media Downloded successfully 🎉</b>"
