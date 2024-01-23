@@ -1,8 +1,8 @@
 class Translation(object):
     
     START_TXT = """ <b> Hi {} ,
- I'm A Simple Rename Bot With Permanent Thumbnail And Custom Caption support!</b>
-<b>Click help button to know more about me !</b>\n 
+ I'm A Simple Rename Bot With Permanent Thumbnail And Custom Caption support!</b>\n
+<b>Click help button to know more about me !\n\nPᴏᴡᴇʀᴇᴅ Bʏ ➩ @Team_MDL</b>
 """
     PROGRESS_BAR = """\n
 ╭───[**🔅Progress Bar🔅**]───⍟
